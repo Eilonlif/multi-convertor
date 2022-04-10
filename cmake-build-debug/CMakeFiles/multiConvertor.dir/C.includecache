@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/eilonlif/CLionProjects/multiConvertor/config.c
+config.h
+/Users/eilonlif/CLionProjects/multiConvertor/config.h
+stdio.h
+-
+string.h
+-
+
+/Users/eilonlif/CLionProjects/multiConvertor/config.h
+stdio.h
+-
+string.h
+-
+

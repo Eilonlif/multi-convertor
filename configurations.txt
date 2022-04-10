@@ -1,0 +1,3 @@
+inputDirectoryPath = /Users/eilonlif/CLionProjects/multiConvertor/input
+outputDirectoryPath = /Users/eilonlif/CLionProjects/multiConvertor/output
+magickpath = /usr/local/bin/magick
